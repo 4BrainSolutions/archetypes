@@ -5,8 +5,8 @@
     <groupId>${groupId}</groupId>
     <artifactId>${artifactId}</artifactId>
     <version>${version}</version>
+    <packaging>jar</packaging>
     <name>${artifactId} - 4BrainSolutions GmbH</name>
-
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

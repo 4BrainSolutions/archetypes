@@ -1,3 +1,5 @@
 Archetypes:
 
-simple-programm is an archtype with apache poi and freemarker as default dependencies
+simple-app is an archtype with apache poi and freemarker as default dependencies
+
+Run create.sh to create project.
